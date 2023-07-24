@@ -1,0 +1,37 @@
+# Dependency directories
+node_modules/
+yarn.lock
+package-lock.json
+
+# Build output
+build/
+dist/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor-specific files
+.vscode/
+.idea/
+*.log
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+
+# Compiled files
+*.map
+
+# Cache and temporary files
+.cache/
+*.tmp
+*.pid
+*.bak
+*.DS_Store
+*.log
+
+# Other project-specific files or directories you want to ignore
